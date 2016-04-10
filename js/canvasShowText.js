@@ -64,14 +64,11 @@ function canvasShow(){
 	
 	Dot.prototype={
 		paint:function(){
-			context.save();
 			context.beginPath();
 			var scale=focallength/(focallength+this.z);
 			context.arc(cWidth/2+(this.x-cWidth/2)*scale,cHeight/2+(this.y-cHeight/2)*scale,this.radius*scale,0,2*PI);
 			context.fillStyle=this.color;
-			context.fill();
-			context.closePath();
-			context.restore();			
+			context.fill();		
 		}
 	}
 
