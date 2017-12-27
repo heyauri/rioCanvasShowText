@@ -1,4 +1,4 @@
-# canvasShowText
+# rioCanvasShowText
 
 ## Introduction
 Show text by particles in HTMl5 Canvas.
