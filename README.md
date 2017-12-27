@@ -5,7 +5,7 @@ Show text by particles in HTMl5 Canvas.
 
 一个以HTML5 Canvas实现的简单粒子字体特效.
 
-![screenshot](https://github.com/ruiyeah/canvasShowText/raw/master/img/screen-shot.png)
+![screenshot](https://github.com/ruiyeah/canvasShowText/raw/master/img/sample.gif)
 
 ## Usage
 
